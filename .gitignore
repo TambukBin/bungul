@@ -1,104 +1,189 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
+RENCANA PELAKSANAAN PEMBELAJARAN
+(RPP)
 
-# C extensions
-*.so
 
-# Distribution / packaging
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-MANIFEST
+Satuan Pendidikan 	:	__________________________________
+Kelas / Semester 	:	V / 1
+Tema 1	:	Benda-Benda di Lingkungan Sekitar
+Sub Tema 1	:	Wujud Benda dan Cirinya
+Pembelajaran Ke	:	1
+Alokasi Waktu	:	1 x Pertemuan (6 x 35 menit)
 
-# PyInstaller
-#  Usually these files are written by a python script from a template
-#  before PyInstaller builds the exe, so as to inject date/other infos into it.
-*.manifest
-*.spec
 
-# Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
+A. 	KOMPETENSI INTI (KI)
+KI 1	:	Menerima dan menjalankan ajaran Agama yang dianutnya. 
+KI 2	:	Memiliki perilaku jujur, disiplin, tanggung jawab, santun, peduli, dan percaya diri dalam berinteraksi dengan keluarga, teman dan guru. 
+KI 3	:	Memahami pengetahuan faktual dengan cara mengamati [mendengar, melihat, membaca] dan menanya berdasarkan rasa ingin tahu tentang dirinya, makhluk ciptaan Tuhan dan kegiatannya, dan benda-benda yang dijumpainya di rumah, sekolah.
+KI 4	:	Menyajikan pengetahuan faktual dalam bahasa yang jelas dan logis dan sistematis, dalam karya yang estetis dalam gerakan yang mencerminkan anak sehat, dan dalam tindakan yang mencerminkan perilaku anak beriman dan berakhlak mulia.
 
-# Unit test / coverage reports
-htmlcov/
-.tox/
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*.cover
-.hypothesis/
-.pytest_cache/
+B.	KOMPETENSI DASAR (KD) & INDIKATOR
+Kompetensi Dasar (KD) :
+Bahasa Indonesia
+3.1 	Menggali informasi dari teks laporan buku tentang makanan dan rantai makanan, kesehatan manusia, keseimbangan ekosistem, serta alam dan pengaruh kegiatan manusia dengan bantuan guru dan teman dalam bahasa Indonesia lisan dan tulis dengan memilih dan memilah kosakata baku
+Indikator:
+	Menjelaskan isi informasi dari bacaan tentang alam dan penga¬ruh kegiatan manusia keseimbangan ekosistem yang diakibatkan oleh kegiatan manusia
 
-# Translations
-*.mo
-*.pot
+Kompetensi Dasar (KD) :
+4.1 	Mengamati, mengolah, dan menyajikan teks laporan buku tentang makanan dan rantai makanan, kesehatan manusia, keseimbangan ekosistem, serta alam dan pengaruh kegiatan manusia secara mandiri dalam bahasa Indonesia lisan dan tulis dengan memilih dan memilah kosakata baku
+Indikator:
+	Menyajikan hasil laporan dalam bentuk tabel mengenai peruba¬han alam dan 
 
-# Django stuff:
-*.log
-local_settings.py
-db.sqlite3
+Matematika
+3.2 	Memahami berbagai bentuk pecahan (pecahan biasa, campuran, desimal dan persen) dan dapat mengubah bilangan pecahan menjadi bilangan desimal, serta melakukan perkailan dan pembagian
+Indikator:
+	Menyelesaikan soal latihan peca¬han biasa, campuran, desimal
 
-# Flask stuff:
-instance/
-.webassets-cache
+Kompetensi Dasar (KD) :
+4.1 	Mengurai sebuah pecahan sebagai hasil penjumlahan, pengurangan, perkalian, dan pembagian dua buah pecahan yang dinyatakan dalam desimal dan persen dengan berbagai kemungkinan jawaban
+Indikator:
+	Mengenal bentuk pecahan biasa
+	Mengenal bentuk pecahan cam¬puran
+	Mengenal bentuk pecahan desimal
 
-# Scrapy stuff:
-.scrapy
+IPS
+3.1 	Memahami aktivitas dan perubahan kehidupan manusia dalam ruang, konektivitas antarruang dan waktu serta keberlanjutannnya dalam kehidupan sosial, ekonomi, pendidikan dan budaya dalam lingkup nasionalI
+Indikator:
+	Mengenal aktivitas kehidupan manusia dan perubahannya dalam ruang di bidang sosial, ekonomi, pendidikan, dan bu¬daya dalam lingkup nasional
 
-# Sphinx documentation
-docs/_build/
+Kompetensi Dasar (KD) :
+4.1 	Menyajikan hasil pengamatan mengenai aktivitas dan perubahan kehidupan manusia dalam ruang, konektivitas antarruang dan waktu serta dan keberlanjutannya dalam kehidupan sosial, ekonomi, pendidikan dan budaya dalam lingkup nasional dari sumber-sumber yang tersedia
+Indikator:
+	Menyusun laporan secara ter¬tulis dalam bentuk tabel hasil identifikasi tentang aktivitas dan perubahan kehidupan manusia.
 
-# PyBuilder
-target/
 
-# Jupyter Notebook
-.ipynb_checkpoints
 
-# pyenv
-.python-version
+C.	TUJUAN PEMBELAJARAN
+	Dengan kegiatan mengamati gambar orang yang membuang sampah ke sungai, siswa menemukan contoh perilaku manusia yang dapat menyebabkan perubahan alam dengan benar dengan cermat dan teliti.
+	Dengan kegiatan eksplorasi perubahan alam, siswa mengidentifikasi perubahan-perubahan alam yang berdampak pada manusia dengan cermat.
+	Dengan membaca teks tentang perubahan wujud benda, siswa dapat menemukan contoh–contoh perubahan wujud benda yang terdapat pada bacaan dengan cermat dan teliti.
+	Dengan membaca teks tentang perubahan wujud benda, siswa menuliskan kosakata baku dan tidak baku beserta artinya dengan tepat dengan cermat dan teliti.
+	Dengan latihan penyelesaian soal tentang pecahan, siswa dapat mengubah bentuk pecahan biasa ke bentuk pecahan campuran, persen, dan desimal dengan cermat, teliti, dan percaya diri.
 
-# celery beat schedule file
-celerybeat-schedule
+D.	MATERI PEMBELAJARAN
+	Membuat kerajinan ronce dengan mengikuti prosedur yang benar.
+	Melakukan percobaan dan pengamatan tentang perubahan bentuk benda setelah mengalami pendinginan dan pembakaran
+	Mengamati dan memprediksi peristiwa yang akan terjadi pada lilin yang dibakar
+	Menjelaskan kerusakan dan perubahan alam karena perilaku manusia berdasarkan bacaan
 
-# SageMath parsed files
-*.sage.py
+E.	PENDEKATAN & METODE PEMBELAJARAN
+	Pendekatan	: 	Saintifik
+	Metode	:	Permainan/simulasi, diskusi, tanya jawab, penugasan dan ceramah
 
-# Environments
-.env
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
+F.	KEGIATAN  PEMBELAJARAN
+Kegiatan	Deskripsi Kegiatan	Alokasi
+Waktu
+Pendahuluan		Guru memberikan salam dan mengajak semua siswa berdo’a menurut agama dan keyakinan masing-masing.
+	Guru mengecek kesiapan diri dengan mengisi lembar kehadiran dan memeriksa kerapihan pakaian, posisi dan tempat duduk disesuaikan dengan kegiatan pembelajaran.
+	Menginformasikan tema yang akan dibelajarkan yaitu tentang ” Wujud Benda dan Cirinya”.
+	Guru menyampaikan tahapan kegiatan yang meliputi kegiatan mengamati, menanya, mengeksplorasi, mengomunikasikan dan menyimpulkan.
+	15 menit
+Inti		Siswa mengamati gambar yang menunjukkan contoh perilaku yang tidak selaras dengan lingkungan, yakni membuang sampah ke sungai.
+	Siswa menjawab pertanyaan pada buku iswa berdasarkan pengamatan gambar.
+	Gunakan rubrik pengamatan gambar untuk mengetahui tingkat pencapaian siswa
+	Siswa mengamati dan mengidentifikasi perubahan-perubahan yang terjadi di alam yang memiliki dampak bagi kehidupan manusia.	180 menit
+		Siswa membaca bacaan berjudul Aneh, Kenapa Bisa Begitu?
+	Guru memberikan waktu selama 5 menit dan siswa diminta membaca dalam hati.
+	Guru menunjuk satu siswa untuk membacakan bacaan tersebut dan meminta siswa lain menyimak.	
+		Selesai membaca, siswa menuliskan pada tabel contoh kosakata baku dan kosakata tidak baku yang terdapat pada bacaan.
+	Setelah membaca dan memahami kosakata-kosakata baku dan tidak baku, siswa menuliskan informasi-informasi yang terdapat pada bacaan di atas berkaitan dengan perubahan wujud benda	
+		Siswa membentuk kelompok diskusi untuk mengamati dan mengidentifikasi perubahan-perubahan alam yang terjadi di lingkungan sekitar tempat tinggalnya.	
+		Guru menjelaskan konsep pecahan melalui ilustrasi pembagian roti dan buah jeruk .
+	Siswa diberikan kesempatan untuk bertaya dan memberikan tanggapan.
+	Siswa mengerjakan soal latihan untuk mengubah bentuk pecahan biasa menjadi bentuk pecahan campuran dan mengubah bentuk pecahan campuran menjadi bentuk pecahan biasa.
+	Gunakan rubrik menyelesaikan soal latihan pecahan untuk mengetahui tingkat pencapaian siswa.	
+		Guru menjelaskan konsep persen.
+	Siswa diberikan kesempatan untuk bertaya dan memberikan tanggapan.
+	Siswa mengerjakan soal latihan untuk mengubah bentuk pecahan biasa menjadi bentuk pecahan persen dan mengubah bentuk pecahan persen menjadi bentuk pecahan biasa.
+	Gunakan rubrik menyelesaikan soal latihan pecahan untuk mengetahui tingkat pencapaian siswa.	
+		Guru menjelaskan konsep bentuk pecahan desimal.
+	Siswa diberikan kesempatan untuk bertanya dan memberikan tanggapan.
+	Siswa mengerjakan soal latihan untuk mengubah bentuk pecahan desimal menjadi bentuk pecahan biasa dan mengubah bentuk pecahan biasa menjadi bentuk pecahan desimal.
+	Gunakan rubrik menyelesaikan soal latihan pecahan untuk mengetahui tingkat pencapaian siswa.	
+		Siswa mengisi tabel mengenai kompetensi yang sudah dipelajari, berkaitan dengan perubahan alam dan perubahan wujud benda	
+Penutup		Bersama-sama siswa membuat kesimpulan / rangkuman hasil belajar selama sehari
+	Bertanya jawab tentang materi yang telah dipelajari (untuk mengetahui hasil ketercapaian materi)
+	Guru memberi kesempatan kepada siswa untuk menyampaikan pendapatnya tentang pembelajaran yang telah diikuti.
+	Melakukan penilaian hasil belajar
+	Mengajak semua siswa berdo’a menurut agama dan keyakinan masing-masing (untuk mengakhiri kegiatan pembelajaran)
+	15 menit
 
-# Spyder project settings
-.spyderproject
-.spyproject
 
-# Rope project settings
-.ropeproject
 
-# mkdocs documentation
-/site
+G.	SUMBER DAN  MEDIA PEMBELAJARAN
+	Buku Siswa Tema : Benda-Benda di Lingkungan Sekitar Kelas V (Buku Tematik Terpadu Kurikulum 2013, Jakarta: Kementerian Pendidikan dan Kebudayaan, 2014).
+	Buku, teks bacaan perubahan wujud benda, dan gambar tentang perilaku yang tidak selaras dengan lingkungan
 
-# mypy
-.mypy_cache/
+
+H.	PENILAIAN HASIL PEMBELAJARAN
+a. Penilaian uji unjuk kerja
+Kompetensi yang dinilai:
+•	Pengetahuan siswa tentang materi gambar yang diamati
+•	Keterampilan siswa dalam mengamati
+•	Kecermatan dan ketelitian siswa dalam mengamati 
+
+Rubrik Menulis Berdasarkan Pengamatan Gambar
+Aspek	Baik Sekali	Baik	Cukup	Perlu Bimbingan
+	4	3	2	1
+Isi dan Pengeta-huan:
+Hasil yang ditulis sesuai dengan kejadian atau peristiwa yang tampak pada gambar yang diamati	Keseluruhan jawaban yang ditulis siswa sesuai dengan gambar yang diamati dan benar mengelompokkan jawaban	Keseluruhan jawaban yang ditulis siswa sesuai dengan gam¬bar yang diamati dan sebagian besar benar dalam mengelompok-kan jawaban	Sebagian besar jawa¬ban yang ditulis siswa sesuai dengan gambar yang diamati dan sebagian besar benar dalam mengelompok-kan jawaban	Hanya sebagian kecil jawaban yang ditulis siswa sesuai dengan gambar yang diamati dan hanya sebagian kecil benar dalam mengelompokkan jawaban
+Penggunaan Ba¬hasa Indonesia yang baik dan benar :
+Bahasa In-donesia yang baik dan benar digunakan dalam penulisan ringkasan	Bahasa Indonesia yang baik dan benar digunakan dengan efisien dan menarik dalam keseluruhan penulisan	Bahasa Indonesia yang baik dan benar digunakan dengan efisien dalam keselu-ruhan penulisan	Bahasa Indonesia yang baik dan benar digunakan dengan sangat efisien dalam sebagian besar penu¬lisan	Bahasa Indonesia yang baik dan benar digunakan dengan sangat efisien dalam sebagian kecil penu¬lisan
+SIkap:
+Tulisan hasil pengamatan dibuat dengan cermat dan teliti, sesuai dengan tenggat waktu dan batasan materi yang ditugaskan	Kecermatan,ketelitian bekerja, dan ketepatan waktu dalam pemenuhan tugas yang diberikan, disertai juga dengan kreatifitas dalam bekerja menunjukkan kualitas sikap yang sangat baik dan terpuji	Kecermatan,ketelitian bekerja, dan ketepa¬tan waktu dalam pe¬menuhan tugas yang diberikan menunjuk¬kan kualitas sikap yang sangat baik 	Kecermatan,ketelitian bekerja, dan ketepatan waktu dalam pemenu¬han tugas yang di-berikan menunjukkan kualitas sikap yang masih dapat terus ditingkatkan	Kecermatan,ketelitian bekerja, dan ketepa¬tan waktu dalam pe¬menuhan tugas yang diberikan menunjuk¬kan kualitas sikap yang masih harus terus diperbaiki
+Keterampilan Penulisan:
+Tulisan hasil pengamatan dibuat dengan benar, sistematis dan jelas, yang menunjukkan keterampilan penulisan yang baik	Keseluruhan ha¬sil penulisan hasil pengamatan yang sistematis dan benar menunjukkan keter¬ampilan penulisan yang sangat baik, di atas rata-rata kelas	Keseluruhan hasil penulisan penulisan hasil pengamatan yang sistematis dan benar menunjukkan keterampilan penu¬lisan yang baik	Sebagian besar hasil penulisan penulisan hasil pengamatan yang sistematis dan benar menunjuk¬kan keterampilan penulisan yang terus berkembang	Hanya sebagian kecil hasil penu¬lisan penulisan hasil pengamatan yang sistematis dan benar menunjukkan keter¬ampilan penulisan yang masih perlu terus ditingkatkan
+
+
+b. Penilaian uji unjuk kerja
+Kompetensi yang dinilai:
+•	Pengetahuan siswa tentang konsep pecahan
+•	Keterampilan siswa dalam mengaplikasikan pengetahuannya untuk memecah¬kan masalah
+•	Kercamatan dan ketelitian siswa dalam menggunakan konsep pecahan untuk menyaksikan soal pecahan
+
+
+
+RUBRIK MENYELESAIKAN SOAL LATIHAN PECAHAN
+Aspek	Baik Sekali	Baik	Cukup	Perlu Bimbingan
+	4	3	2	1
+Melakukan seluruh prosedur 	Seluruh lang-kah pengerjaan dilakukan	Sebagian besar langkah penger¬jaan dilakukan	Sebagian kecil langkah pengerjaan dilakukan	Dikerjakan tanpa memperhatikan prosedur pengerjaan
+Jawaban lengkap sesuai butir pertanyaan 	Seluruh butir pertanyaan diisi 	Sebagian besar pertanyaan diisi 	Sebagian kecil pertanyaan diisi 	Sama sekali tidak diisi
+Isi jawaban sesuai per-tanyaan	Seluruh jawaban benar sesuai pertanyaan	Sebagian besar awaban benar sesuai pertanyaan	Sebagian Kecil jawaban benar sesuai pertan-yaan	Jawaban sama sekali tidak sesuai dengan pertanyaan
+Sikap	Percaya diri, mandiri, rasa ingin tahu	Percaya diri, se¬sekali meminta bantuan guru, rasa ingin tahu	Tidak percaya diri, mengandalkan bimbingan guru	Menyontek 
+
+
+c. Penilaian uji unjuk kerja
+Kompetensi yang dinilai:
+•	Pengetahuan siswa terhadap perubahan alam
+•	Keterampilan siswa dalam mengumpulkan informasi dan menyaksikannya
+•	Kecermatan dan ketelitian dalam mengidentifikasi perubahan alam
+
+Menyajikan laporan tertulis dalam bentuk tabel hasil identifikasi perubahan alam
+Aspek	Baik Sekali	Baik	Cukup	Perlu Bimbingan
+	4	3	2	1
+Isi dan Penge-tahuan:
+Isi tabel leng-kap, menunjuk¬kan pengeta¬huan penulis yang baik atas materi yang disajikan	Tabel yang leng¬kap dan infomatif dan memudahkan pembaca mema¬hami keseluruhan materi. Beberapa gambar dan ket¬erangan lain yang diberikan mem¬berikan tambahan informasi berguna bagi pembaca	Tabel yang leng¬kap dan infomatif dan memudahkan pembaca mema¬hami keseluruhan materi.	Tabel yang leng¬kap dan infomatif dan memudahkan pembaca mema¬hami sebagian besar materi.	Tabel yang leng¬kap dan infomatif dan memudahkan pembaca mema¬hami beberapa bagian dari materi.
+Penggunaan Bahasa Indo-nesia yang baik dan benar :
+Bahasa Indo-nesia yang baik dan benar di-gunakan dalam penulisan tabel	Bahasa Indone¬sia yang baik dan benar dan sangat efektif digunakan dalam penulisan keseluruhan kali¬mat dalam tabel	Bahasa Indone¬sia yang baik dan benar digunakan dalam penulisan keseluruhan kali¬mat dalam tabel	Bahasa Indone¬sia yang baik dan benar digunakan dalam penulisan sebagian besar kalimat dalam tabel	Bahasa Indone¬sia yang baik dan benar digunakan dalam penulisan beberapa bagian dari tabel
+SIkap:
+Tabel dibuat dengan mandiri, cer-mat dan teliti, sesuai dengan tenggat waktu dan batasan materi yang ditugaskan	Tabel dibuat dengan lengkap, mandiri, cermat dan teliti, disele¬saikan sesuai ba¬tas waktu, dengan beberapa penam¬bahan kreatifitas untuk menjelaskan materi	Keseluruhan tabel dibuat dengan mandiri lengkap, cermat dan teliti, diselesaikan sesuai batas waktu yang diberikan	Sebagian besar ta¬bel dibuat dengan mandiri, lengkap, cermat dan teliti, diselesaikan sesuai batas waktu yang diberikan	Hanya beberapa bagian tabel dibuat dengan mandiri, lengkap, cermat dan teliti, diselesaikan sesuai batas waktu yang diberikan
+Keterampilan Penulisan:
+Tabel dibuat dengan benar, sistematis, dan menarik menunjukkan keterampilan pembuatan ta-bel yang baik	Keseluruhan tabel yang sangat me-narik, jelas dan benar , menunjuk¬kan keterampilan membuat tabel yang tinggi dari pembuatnya	Keseluruhan tabel yang menarik, jelas dan benar , menunjukkan keterampilan membuat tabel yang baik dari pembuatnya	Sebagian besar tabel yang dibuat dengan menarik, jelas dan benar , menunjukkan keterampilan membuat tabel yang terus berkembang dari pembuatnya	Bagian-bagian tabel yang dibuat dengan menarik, jelas dan benar , menunjukkan ket¬rampilan membuat tabel yang dapat terus ditingkatkan
+
+
+
+
+Mengetahui
+Kepala Sekolah,
+
+
+
+( ___________________ )
+NIP ..................................		
+Guru Kelas V
+
+
+
+( ___________________ )
+NIP ..................................
+
+ 
